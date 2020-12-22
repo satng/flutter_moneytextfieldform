@@ -13,7 +13,7 @@ dependencies:
   flutter_money_formatter:
     git:
       url: git://github.com/satng/flutter_money_formatter.git
-      ref: master
+      ref: dev
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
