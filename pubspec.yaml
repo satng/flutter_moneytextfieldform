@@ -10,7 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_money_formatter: ^0.8.3
+  flutter_money_formatter:
+    git:
+      url: git://github.com/satng/flutter_money_formatter.git
+      ref: master
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
